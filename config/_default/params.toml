@@ -18,7 +18,7 @@ subtitle = "If you are not building stuff, don't stop people who are!"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/big.png"
+src = "img/profile.jpeg"
 
 [article]
 math = false

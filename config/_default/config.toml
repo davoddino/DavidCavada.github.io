@@ -1,10 +1,10 @@
 homepage = "whoami"
 
 # Change baseurl before deploy
-baseurl = "https://sebo-the-tramp.github.io"
+baseurl = "https://davoddino.github.io"
 languageCode = "en-us"
 paginate = 5
-title = "Sebastian Cavada"
+title = "David Cavada"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -15,7 +15,7 @@ DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
-disqusShortname = "sebastiancavada"
+disqusShortname = "davidcavada"
 
 
 [deployment]
@@ -33,7 +33,7 @@ name = "aws-website"
 
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://sebastiancavadadev?region=eu-north-1"
+URL = "s3://davidcavadadev?region=eu-north-1"
 
 # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
 # cloudFrontDistributionID = <ID>
