@@ -4,7 +4,7 @@ description:
 comments: false
 readingTime: false
 license: false
-image: build_dolomites.jpg
+image: build.jpg
 
 
 menu:
