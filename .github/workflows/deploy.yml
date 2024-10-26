@@ -6,6 +6,10 @@ on:
     pull_request:
         branches: [master]
 
+permissions:       # Aggiunta dei permessi per l'id-token
+    id-token: write
+    contents: read
+
 jobs:
     build:
         runs-on: ubuntu-latest
