@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/Sebo-the-tramp"
+url = "https://github.com/davoddino"
 
 [social.params]
 icon = "brand-github"
@@ -18,7 +18,7 @@ icon = "brand-github"
 [[social]]
 identifier = "linkedin"
 name = "Linkedin"
-url = "https://github.com/Sebo-the-tramp"
+url = "https://www.linkedin.com/in/david-cavada-b64657218/"
 
 [social.params]
 icon = "brand-linkedin"
@@ -27,7 +27,7 @@ icon = "brand-linkedin"
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://mobile.twitter.com/_cavada"
+url = "https://x.com/david_cavada"
 
 [social.params]
 icon = "brand-twitter"
@@ -35,7 +35,7 @@ icon = "brand-twitter"
 [[social]]
 identifier = "youtube"
 name = "Youtube"
-url = "https://www.youtube.com/channel/UCe2CkR9ldskNh_mVSwpeiLw"
+url = "https://www.youtube.com/channel/@davidcavada"
 
 [social.params]
 icon = "brand-youtube"
