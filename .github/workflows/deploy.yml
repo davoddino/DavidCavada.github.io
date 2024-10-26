@@ -16,7 +16,7 @@ jobs:
             - name: Cache Hugo resources
               uses: actions/cache@v2
               env:
-                  cache-name: cache-hugo-resources
+                  cache-name: cache-hugo-resources-v2  # Forza reset cambiando nome
               with:
                   path: resources
                   key: ${{ env.cache-name }}
@@ -52,3 +52,4 @@ jobs:
                   folder: public
                   clean: true
                   single-commit: true
+                  token: ${{ secrets.ACTIONS_DEPLOY_KEY }}  # Secret per l'autenticazione
